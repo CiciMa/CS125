@@ -1,0 +1,33 @@
+testWisconsinStudent: program output matches expected output.
+testIllinoisStudent: program output matches expected output.
+testMichiganPhDStudent: program output matches expected output.
+testMichiganStudent: Expected 18 lines. Actual 18 lines.
+1. PASS > 'Please enter your zip code.'
+2. PASS > 'Which University CS Department was recently awarded $208 million to develop the worlds fastest computer?'
+3. PASS > '1. Illinois'
+4. PASS > '2. Michigan'
+5. PASS > '3. MIT'
+6. PASS > 'Which University CS Department designed and built the pioneering ILLIAC series?'
+7. PASS > '1. Illinois'
+8. PASS > '2. Wisconsin'
+9. PASS > '3. Berkeley'
+10. PASS > 'Which University released 'Mosaic' - the first multimedia cross-platform browser?'
+11. PASS > '(Mosaic's source code was later licensed to Microsoft and Netscape Communications)'
+12. PASS > '1. Illinois'
+13. PASS > '2. Michigan'
+14. PASS > '3. Wisconsin'
+15. PASS > 'True/False? Variables have four things: a type, name, value and a memory location.'
+16. PASS > '1. True'
+17. PASS > '2. False'
+18. FAIL > 'You scored:30' Should be - 
+18.        'You scored:0'
+testMichiganStudent: Program output above was incorrect on output line 18
+
+testB: program output matches expected output.
+testC: program output matches expected output.
+testA: program output matches expected output.
+test1: program output matches expected output.
+test10: program output matches expected output.
+test12: program output matches expected output.
+test17: program output matches expected output.
+testBadInput: program output matches expected output.

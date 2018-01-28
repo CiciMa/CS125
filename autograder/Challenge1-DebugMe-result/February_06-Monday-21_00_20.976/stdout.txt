@@ -1,0 +1,15 @@
+.....F..........
+Time: 0.021
+There was 1 failure:
+1) testMichiganStudent(QuizMasterTest)junit.framework.AssertionFailedError: Review incorrect output on line 18
+	at QuizMasterTest.testMichiganStudent(QuizMasterTest.java:37)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at AutomaticScoreCheck.main(AutomaticScoreCheck.java:36)
+
+FAILURES!!!
+Tests run: 15,  Failures: 1,  Errors: 0
+
+14 passed out of 15
+Score=93

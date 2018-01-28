@@ -1,0 +1,12 @@
+Path: work/students/xma29/Challenge1-DebugMe
+Working Copy Root Path: /home/wlchapma/sp17-cs125/_class/_private/Autograder/work/students
+URL: https://subversion.ews.illinois.edu/svn/sp17-cs125/xma29/Challenge1-DebugMe
+Repository Root: https://subversion.ews.illinois.edu/svn/sp17-cs125
+Repository UUID: 77ea4032-368f-4941-8b5a-a77381e4a242
+Revision: 6759
+Node Kind: directory
+Schedule: normal
+Last Changed Author: xma29
+Last Changed Rev: 6096
+Last Changed Date: 2017-02-05 16:57:01 -0600 (Sun, 05 Feb 2017)
+
